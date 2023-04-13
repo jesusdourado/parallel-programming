@@ -1,2 +1,2 @@
 # facul-ac
-Arquitetura de computadores
+Parallel Programming 
